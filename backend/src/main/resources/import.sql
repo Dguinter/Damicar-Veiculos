@@ -1,8 +1,8 @@
-INSERT INTO tb_category(name) VALUES ('Hatch');
-INSERT INTO tb_category(name) VALUES ('SUV');
-INSERT INTO tb_category(name) VALUES ('Sedan');
-INSERT INTO tb_category(name) VALUES ('Van');
-INSERT INTO tb_category(name) VALUES ('Picape');
-INSERT INTO tb_category(name) VALUES ('Off-road');
-INSERT INTO tb_category(name) VALUES ('Minivan');
-INSERT INTO tb_category(name) VALUES ('Crossover');
+INSERT INTO tb_category(name, created_At) VALUES ('Hatch', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('SUV', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Sedan', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Van', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Picape', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Off-road', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Minivan', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Crossover', NOW());
