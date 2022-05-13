@@ -1,0 +1,32 @@
+header{
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.damicar-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffff;
+}
+
+.damicar-nav-content h1 {
+    margin: 0 50px 0 0;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.damicar-nav-content{
+    display: flex;
+}
+
+.damicar-contact-container{
+    display: flex;
+    align-items: center;
+}
+
+.damicar-contact-link{
+    margin: 0 0 0 10px;
+}
