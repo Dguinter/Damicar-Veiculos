@@ -13,7 +13,7 @@ header{
 }
 
 .damicar-nav-content h1 {
-    margin: 0 50px 0 0;
+    margin: 0;
     font-weight: 700;
     font-size: 24px;
 }
@@ -29,4 +29,5 @@ header{
 
 .damicar-contact-link{
     margin: 0 0 0 10px;
+    font-size: 12;
 }
